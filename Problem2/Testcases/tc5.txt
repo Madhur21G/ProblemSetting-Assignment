@@ -1,0 +1,6 @@
+Input:
+aabab
+aabbababababab
+
+Output:
+2

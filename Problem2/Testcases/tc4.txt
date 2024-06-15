@@ -1,0 +1,6 @@
+Input:
+hs
+usxdpmhs
+
+Output:
+1
