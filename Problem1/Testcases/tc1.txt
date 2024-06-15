@@ -1,0 +1,12 @@
+Input:
+4			
+bonobo
+deleted			
+racecar
+racecars
+
+Output:
+3
+5
+7
+1

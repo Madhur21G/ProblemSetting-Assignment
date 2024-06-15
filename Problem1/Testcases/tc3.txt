@@ -1,0 +1,14 @@
+Input:
+5
+abba
+aabaab
+x
+aa
+ab
+
+Output:
+4
+2
+1
+2
+1
