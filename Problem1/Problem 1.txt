@@ -1,11 +1,15 @@
 Problem 1:
 
 BitWizz loves to play with strings. So he decided to create a problem on it. He loves partitions.
-A partition of a string s is a set of one or more non-overlapping non-empty substrings of s such that s is their concatenation. We call these substrings as "blocks" and define the length of such a partition to be the number of blocks.
+A partition of a string s is a set of one or more non-overlapping non-empty substrings of s such that s is their concatenation.
+We call these substrings as "blocks" and define the length of such a partition to be the number of blocks.
 
-Now we can represent each partition of a string by writing each block in parenthesis. For example the string "cbaocb" can be partitioned as (c)(ba)(ocb) or (cb)(aocb) or a number of other ways.
+Now we can represent each partition of a string by writing each block in parenthesis. 
+For example the string "cbaocb" can be partitioned as (c)(ba)(ocb) or (cb)(aocb) or a number of other ways.
 
-A partition is now called palindromic if each block form a palindrome when we consider each block as an atomic unit. For example the only palindromic partitions of "cbaocb" are (cb)(ao)(cb) and (cbaocb). From this we can see that every word has a trivial palindromic partition of length one.
+A partition is now called palindromic if each block form a palindrome when we consider each block as an atomic unit. 
+For example the only palindromic partitions of "cbaocb" are (cb)(ao)(cb) and (cbaocb). 
+From this we can see that every word has a trivial palindromic partition of length one.
 
 Help BitWizz calculate the maximal possible number of blocks in palindromic partition.
 
