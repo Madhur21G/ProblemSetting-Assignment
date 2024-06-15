@@ -1,0 +1,18 @@
+Problem2;
+BitWizz loves strings and especially permutations. He loves to play with such strings. While exploring,
+he encountered a problem and wants you to solve for him. You are a given a string S and a string T both of which
+contain only lower case letters.
+
+Write a program to count the number of distinct permutations of S which appear as a substring of T at least once.
+Note that S can have anywhere between 1 and |S|! distinct permutations in total.
+
+Input:
+The first line contains string S
+The second line contains string T
+
+Output:
+The number of distinct permutations of S which appear as a substring of T.
+
+Constraints:
+1 <= |S| <= 200000
+1 <= |T| <= 200000
